@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.14.3](https://github.com/Koenkk/zigbee2mqtt/compare/2.14.2...2.14.3) (2026-10-06)
+
+
+### Bug Fixes
+
+* **deps:** bump ip-address from 10.7.0 to 10.7.2 ([#33244](https://github.com/Koenkk/zigbee2mqtt/issues/33244)) ([992952c](https://github.com/Koenkk/zigbee2mqtt/commit/992952cdb3fda92becaea926db42f15e0772e06b))
+* Do not let a malformed WebSocket frame escape the message listener ([#33275](https://github.com/Koenkk/zigbee2mqtt/issues/33275)) ([6cd4aeb](https://github.com/Koenkk/zigbee2mqtt/commit/6cd4aeb032b4ea00c5ac021a5d4937eb62b2b631))
+* **ignore:** bump fast-uri from 3.1.6 to 3.1.8 ([#33245](https://github.com/Koenkk/zigbee2mqtt/issues/33245)) ([cc10d3a](https://github.com/Koenkk/zigbee2mqtt/commit/cc10d3a1cbf39f79a17fe8015aecd208e7f32d11))
+* **ignore:** update zigbee-herdsman-converters to 26.115.2 ([#33251](https://github.com/Koenkk/zigbee2mqtt/issues/33251)) ([77bd457](https://github.com/Koenkk/zigbee2mqtt/commit/77bd457beff1748c19277782d835a4eb8a903652))
+* **ignore:** update zigbee-herdsman-converters to 26.116.0 ([#33261](https://github.com/Koenkk/zigbee2mqtt/issues/33261)) ([1d7d708](https://github.com/Koenkk/zigbee2mqtt/commit/1d7d708ad56ff7aace671e2316066f97e2306e0d))
+* **ignore:** update zigbee-herdsman-converters to 26.117.0 ([#33299](https://github.com/Koenkk/zigbee2mqtt/issues/33299)) ([2be83af](https://github.com/Koenkk/zigbee2mqtt/commit/2be83af6a806e45470ccf17c8e197b3a9bd155e7))
+* update zigbee-herdsman to 11.0.0 with new transport ([#33116](https://github.com/Koenkk/zigbee2mqtt/issues/33116)) ([dc56658](https://github.com/Koenkk/zigbee2mqtt/commit/dc56658255d2fadfa4437342238285003c9e28c6))
+
 ## [2.14.2](https://github.com/Koenkk/zigbee2mqtt/compare/2.14.1...2.14.2) (2026-10-01)
 
 
